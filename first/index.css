@@ -1,0 +1,34 @@
+* {margin: 0; padding: 0;}
+
+header {
+    background-color: #5F5755;
+    width: 100%;
+    height: 150px;
+    margin: 0;
+    position: relative;
+}
+
+.leftbar {
+    background-color: #D8D8D8;
+    height: 80%;
+    width: 150px;
+    position: absolute;
+    left: 0;
+}
+
+.rightbar {
+    background-color: #D8D8D8;
+    height: 80%;
+    width: 150px;
+    position: absolute;
+    right: 0;
+}
+
+footer {
+    background-color: #282828;
+    height: 60px;
+    width: calc(80%);
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+}
