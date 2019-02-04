@@ -1,12 +1,45 @@
 * {margin: 0; padding: 0;}
 .navbar {
     background-color: lightgray;
-    height: 80px;
+    height: 100px;
     width: 100%;
+    position: relative;
 }
-.menu {
-
+.blueSquare {
+    background-color: #4584D4;
+    height: 80%;
+    width: 5%;
+    position: absolute;
+    margin: 10px 10px;
 }
 .content {
+    height: 200px;
+    width: 100%;
+}
+div > p {
+    text-align: center;
+    margin: 30px auto;
+    width: 60%;
+    font-size: 1.4em;
+}
+.blue {
+    background-color: #4584D4;
+    height: 100px;
+    width: 100%;
+}
+.aqua {
+    height: 110px;
+    width: 100%;
+    background-color: #36C8AB;
+}
+.sea-grn {
+    height: 110px;
+    width: 100%;
+    background-color: #C2E17B;
+}
+.ylw-grn {
+    height: 110px;
+    width: 100%;
+    background-color: #D2EB20;
 
 }

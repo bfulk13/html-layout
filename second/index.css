@@ -45,6 +45,7 @@
     height: 200px;
     width: 400px;
     margin: 40px auto;
+    box-shadow: 5px 5px 5px lightgray;
 }
 h2 {
     text-align: center;
